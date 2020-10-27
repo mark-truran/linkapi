@@ -1,6 +1,15 @@
 {
   "items": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    { "Company": "A", "Item_Number": "1", "Description": "Casarella 4m" },
+    { "Company": "A", "Item_Number": "2", "Description": "Serengeti Back 4m Malawi" },
+    { "Company": "A", "Item_Number": "3", "Description": "Cathedral Collection 4m 1" },
+    { "Company": "A", "Item_Number": "4", "Description": "Sussex Twist 5m 1332 Gold" },
+    { "Company": "A", "Item_Number": "5", "Description": "Sussex Twist 5m 2980 Harvest" },
+    { "Company": "A", "Item_Number": "6", "Description": "Sussex Twist 5m 2981 Sand" },
+    { "Company": "A", "Item_Number": "7", "Description": "Sussex Twist 5m 2982 Taupe" },
+    { "Company": "A", "Item_Number": "8", "Description": "Sussex Twist 5m 2984 Terracotta" },
+    { "Company": "A", "Item_Number": "9", "Description": "Anna Felt 4m 209 Blue Polka" },
+    { "Company": "A", "Item_Number": "10", "Description": "Sussex Twist 5m 2986 Ocean" },
   ],
   "ranges": [
     { "Company": "A", "Range_Number": 1, "Range_Name": "Old Magic"},
