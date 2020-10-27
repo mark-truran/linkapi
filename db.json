@@ -9,18 +9,18 @@
     { "Company": "A", "Item_Number": "7", "Description": "Sussex Twist 5m 2982 Taupe" },
     { "Company": "A", "Item_Number": "8", "Description": "Sussex Twist 5m 2984 Terracotta" },
     { "Company": "A", "Item_Number": "9", "Description": "Anna Felt 4m 209 Blue Polka" },
-    { "Company": "A", "Item_Number": "10", "Description": "Sussex Twist 5m 2986 Ocean" },
+    { "Company": "A", "Item_Number": "10", "Description": "Sussex Twist 5m 2986 Ocean" }
   ],
   "ranges": [
-    { "Company": "A", "Range_Number": 1, "Range_Name": "Old Magic"},
-    { "Company": "A", "Range_Number": 2, "Range_Name": "Acapulco"},
-    { "Company": "A", "Range_Number": 3, "Range_Name": "Adelaide"},
-    { "Company": "A", "Range_Number": 4, "Range_Name": "Adventure Twist"},
-    { "Company": "A", "Range_Number": 5, "Range_Name": "Alpine Twist"},
-    { "Company": "A", "Range_Number": 6, "Range_Name": "Ambience"},
-    { "Company": "A", "Range_Number": 7, "Range_Name": "Hamlet"},
-    { "Company": "A", "Range_Number": 8, "Range_Name": "Vancouver"},
-    { "Company": "A", "Range_Number": 9, "Range_Name": "Anna"},
-    { "Company": "A", "Range_Number": 10, "Range_Name": "Antique"}
+    { "Company": "A", "Range_Number": 1, "Range_Name": "Old Magic", "Is_Discontinued":"N"},
+    { "Company": "A", "Range_Number": 2, "Range_Name": "Acapulco", "Is_Discontinued":"N"},
+    { "Company": "A", "Range_Number": 3, "Range_Name": "Adelaide", "Is_Discontinued":"N"},
+    { "Company": "A", "Range_Number": 4, "Range_Name": "Adventure Twist", "Is_Discontinued":"N"},
+    { "Company": "A", "Range_Number": 5, "Range_Name": "Alpine Twist", "Is_Discontinued":"Y"},
+    { "Company": "A", "Range_Number": 6, "Range_Name": "Ambience", "Is_Discontinued":"N"},
+    { "Company": "A", "Range_Number": 7, "Range_Name": "Hamlet", "Is_Discontinued":"N"},
+    { "Company": "A", "Range_Number": 8, "Range_Name": "Vancouver", "Is_Discontinued":"N"},
+    { "Company": "A", "Range_Number": 9, "Range_Name": "Anna", "Is_Discontinued":"Y"},
+    { "Company": "A", "Range_Number": 10, "Range_Name": "Antique", "Is_Discontinued":"N"}
   ]
 }
