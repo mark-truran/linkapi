@@ -3,7 +3,15 @@
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
   "ranges": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    { "Company": "A", "Range_Number": 1, "Range_Name": "Old Magic"},
+    { "Company": "A", "Range_Number": 2, "Range_Name": "Acapulco"},
+    { "Company": "A", "Range_Number": 3, "Range_Name": "Adelaide"},
+    { "Company": "A", "Range_Number": 4, "Range_Name": "Adventure Twist"},
+    { "Company": "A", "Range_Number": 5, "Range_Name": "Alpine Twist"},
+    { "Company": "A", "Range_Number": 6, "Range_Name": "Ambience"},
+    { "Company": "A", "Range_Number": 7, "Range_Name": "Hamlet"},
+    { "Company": "A", "Range_Number": 8, "Range_Name": "Vancouver"},
+    { "Company": "A", "Range_Number": 9, "Range_Name": "Anna"},
+    { "Company": "A", "Range_Number": 10, "Range_Name": "Antique"}
+  ]
 }
