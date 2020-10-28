@@ -1,9 +1,9 @@
 {
   "items": [
     { "Company": "A", "Item_Number": "1", "Range_Number": 1, "Description": "Casarella 4m", "Is_Discontinued":"N", "Properties": [{"Product Composition": "100% polyprop"}, {"Flammability": "High"}] },
-    { "Company": "A", "Item_Number": "2", "Range_Number": 1, "Description": "Serengeti Back 4m Malawi", "Is_Discontinued":"Y", "Properties": [{"Product Composition": "100% polyprop"}, {"Flammability": "High"}] },
-    { "Company": "A", "Item_Number": "3", "Range_Number": 4, "Description": "Cathedral Collection 4m", "Is_Discontinued":"N", "Properties": [{"Product Composition": "100% polyprop"}, {"Flammability": "High"}] },
-    { "Company": "A", "Item_Number": "4", "Range_Number": 1, "Description": "Sussex Twist 5m 1332 Gold", "Is_Discontinued":"N", "Properties": [{"Product Composition": "100% polyprop"}, {"Flammability": "High"}] },
+    { "Company": "A", "Item_Number": "2", "Range_Number": 1, "Description": "Serengeti Back 4m Malawi", "Is_Discontinued":"Y", "Properties": [{"Avaiable Backings": "Combi"}, {"Eool Content": "None"}] },
+    { "Company": "A", "Item_Number": "3", "Range_Number": 4, "Description": "Cathedral Collection 4m", "Is_Discontinued":"N", "Properties": [{"Colour": "Rawsilk"}, {"Flammability": "Low"}] },
+    { "Company": "A", "Item_Number": "4", "Range_Number": 1, "Description": "Sussex Twist 5m 1332 Gold", "Is_Discontinued":"N", "Properties": [{"Pattern": "Plains"}, {"Backing": "Action"}] },
     { "Company": "A", "Item_Number": "5", "Range_Number": 2, "Description": "Sussex Twist 5m 2980 Harvest", "Is_Discontinued":"N", "Properties": [{"Product Composition": "100% polyprop"}, {"Flammability": "High"}] },
     { "Company": "A", "Item_Number": "6", "Range_Number": 1, "Description": "Sussex Twist 5m 2981 Sand", "Is_Discontinued":"Y", "Properties": [{"Product Composition": "100% polyprop"}, {"Flammability": "High"}] },
     { "Company": "A", "Item_Number": "7", "Range_Number": 5, "Description": "Sussex Twist 5m 2982 Taupe", "Is_Discontinued":"N", "Properties": [{"Product Composition": "100% polyprop"}, {"Flammability": "High"}] },
