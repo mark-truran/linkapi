@@ -1,6 +1,6 @@
 {
   "items": [
-    { "Company": "A", "Item_Number": "1", "Range_Number": 1, "Description": "Casarella 4m", "Is_Discontinued":"N", "Properties": [{"key1": "value1"}, {"key2": "value2"}] },
+    { "Company": "A", "Item_Number": "1", "Range_Number": 1, "Description": "Casarella 4m", "Is_Discontinued":"N", "Properties": [{"Product Composition": "100% polyprop"}, {"Flammability": "High"}] },
     { "Company": "A", "Item_Number": "2", "Range_Number": 1, "Description": "Serengeti Back 4m Malawi", "Is_Discontinued":"Y" },
     { "Company": "A", "Item_Number": "3", "Range_Number": 4, "Description": "Cathedral Collection 4m", "Is_Discontinued":"N" },
     { "Company": "A", "Item_Number": "4", "Range_Number": 1, "Description": "Sussex Twist 5m 1332 Gold", "Is_Discontinued":"N" },
