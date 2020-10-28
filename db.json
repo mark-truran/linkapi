@@ -4,11 +4,11 @@
     { "Company": "A", "Item_Number": "2", "Range_Number": 1, "Description": "Serengeti Back 4m Malawi", "Is_Discontinued":"Y", "Properties": [{"Avaiable Backings": "Combi"}, {"Eool Content": "None"}] },
     { "Company": "A", "Item_Number": "3", "Range_Number": 4, "Description": "Cathedral Collection 4m", "Is_Discontinued":"N", "Properties": [{"Colour": "Rawsilk"}, {"Flammability": "Low"}] },
     { "Company": "A", "Item_Number": "4", "Range_Number": 1, "Description": "Sussex Twist 5m 1332 Gold", "Is_Discontinued":"N", "Properties": [{"Pattern": "Plains"}, {"Backing": "Action"}] },
-    { "Company": "A", "Item_Number": "5", "Range_Number": 2, "Description": "Sussex Twist 5m 2980 Harvest", "Is_Discontinued":"N", "Properties": [{"Product Composition": "100% polyprop"}, {"Flammability": "High"}] },
-    { "Company": "A", "Item_Number": "6", "Range_Number": 1, "Description": "Sussex Twist 5m 2981 Sand", "Is_Discontinued":"Y", "Properties": [{"Product Composition": "100% polyprop"}, {"Flammability": "High"}] },
-    { "Company": "A", "Item_Number": "7", "Range_Number": 5, "Description": "Sussex Twist 5m 2982 Taupe", "Is_Discontinued":"N", "Properties": [{"Product Composition": "100% polyprop"}, {"Flammability": "High"}] },
-    { "Company": "A", "Item_Number": "8", "Range_Number": 3, "Description": "Sussex Twist 5m 2984 Terracotta", "Is_Discontinued":"N","Properties": [{"Product Composition": "100% polyprop"}, {"Flammability": "High"}] },
-    { "Company": "A", "Item_Number": "9", "Range_Number": 6, "Description": "Anna Felt 4m 209 Blue Polka", "Is_Discontinued":"N", "Properties": [{"Product Composition": "100% polyprop"}, {"Flammability": "High"}] },
+    { "Company": "A", "Item_Number": "5", "Range_Number": 2, "Description": "Sussex Twist 5m 2980 Harvest", "Is_Discontinued":"N", "Properties": [{"Steam Cleaning": "Yes"}] },
+    { "Company": "A", "Item_Number": "6", "Range_Number": 1, "Description": "Sussex Twist 5m 2981 Sand", "Is_Discontinued":"Y", "Properties": [{"Product Composition": "100% near polyprop"}, {"Flammability": "Medium"}, , {"Stain Resitant": "Yes"}] },
+    { "Company": "A", "Item_Number": "7", "Range_Number": 5, "Description": "Sussex Twist 5m 2982 Taupe", "Is_Discontinued":"N", "Properties": [{"Tog Rating": "2.32"}] },
+    { "Company": "A", "Item_Number": "8", "Range_Number": 3, "Description": "Sussex Twist 5m 2984 Terracotta", "Is_Discontinued":"N","Properties": [{"Product Composition": "100% polyprop"}, {"Thickness": "13.5mm"}] },
+    { "Company": "A", "Item_Number": "9", "Range_Number": 6, "Description": "Anna Felt 4m 209 Blue Polka", "Is_Discontinued":"N", "Properties": [{"Bleach Cleanable": "Yes"}, {"Bedroom are of Use": "Yes"}] },
     { "Company": "A", "Item_Number": "10", "Range_Number": 16, "Description": "Sussex Twist 5m 2986 Ocean", "Is_Discontinued":"N", "Properties": [{"Product Composition": "100% polyprop"}, {"Flammability": "High"}] }
   ],
   "ranges": [
